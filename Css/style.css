@@ -1,0 +1,70 @@
+.p_style{
+    color:aqua;
+    font-size:20px;
+    text-transform:capitalize;
+}
+    
+
+#f_style{
+    color:blue;
+    font-size:40px;
+    background-color:yellow;
+    text-transform:uppercase;
+}
+    
+
+#f2_style{
+    color:brown;
+    font-size:50px;
+    background-color:gray;
+    text-transform:lowercase;
+}
+
+#f3_style{
+    color:brown;
+    font-size:50px;
+    background-color:green;
+    text-transform:capitalize;
+    
+}
+#f4_style{
+    color:brown;
+    font-size:50px;
+    background-color:olive;
+    text-transform:capitalize;
+    text-decoration:underline;
+}
+#f5_style{
+    color:brown;
+    font-size:60px;
+    background-color:orchid;
+    
+    text-decoration:overline;
+}
+#f6_style{
+    color:brown;
+    font-size:50px;
+    background-color:olive;
+    
+    text-decoration:line-through;
+}
+#f7_style{
+    
+    color:black;
+    font-size:30x;
+    background-color:olive;
+    text-decoration:underline;
+    text-decoration-style:wavy ;
+}
+#f8_style{
+    
+    color:red;
+    font-size:30x;
+    background-color:aqua;
+    background-image:url(../img/th.jpg);
+    background-repeat:no-repeat;
+
+}
+
+
+
